@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # About Me
-Hello, I'm an embedded systems engineer who loves to build robust, and highly readable and maintainable firmware for embedded device. I've been working on embedded systems for 7+ years now.
+Hello, I'm an embedded systems engineer who loves to build robust, and highly readable and maintainable firmware for embedded device. I've been working on embedded systems for 7+ years now. Also, I've been working remotely for the last 3 years now, and I LOVE IT 🌟
 
 # My Work Experience Timeline Summary
 
@@ -16,7 +16,7 @@ Hello, I'm an embedded systems engineer who loves to build robust, and highly re
 * `Firmware Documentation`. Without proper documentation, people will waste time to understand and follow your firmware.
 * `Firmware Testing`. I love and use Test-Driven Development in my day-to-day work.
 * `Testing Automation`. Usually I use CI/CD to deliver fast and good firmware without breaking existing code.
-* `Programming Language`. I'm fluent speaking embedded C and C++. Also able to speak Python and C#.
+* `Programming Language`. I'm fluent speaking embedded C and C++ (especially the modern version like C++11, C++17, and C++20). Also able to speak Python and C#.
 
 ## Technical Skills
 * Wired Protocols
@@ -27,7 +27,7 @@ Hello, I'm an embedded systems engineer who loves to build robust, and highly re
   * CAN bus
   * USB
   * Ethernet
-  * 
+  * I2S (Audio)
 * Wireless Protocols
   * WiFi
   * Bluetooth Classic
@@ -51,7 +51,8 @@ Hello, I'm an embedded systems engineer who loves to build robust, and highly re
   * FreeRTOS
   * Zephyr
 * Microcontroller
-  * ESP32
+  * ESP32 (dual core MCU + WiFi and Bluetooth)
+  * ESP8266 (single core MCU + WiFi from Espressif)
   * STM32 L0, L1, L4, F1 series
   * AVR MCU
   * Texas Instrument CCxxxx series
