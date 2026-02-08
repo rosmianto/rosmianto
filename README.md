@@ -21,7 +21,7 @@ Hello, I'm an embedded systems engineer who loves to build robust, highly readab
 
 ## Technical Skills
 * Graphic/UI Frameworks
-  * LVGL (since 6.x)
+  * LVGL (since 7.11)
   * TouchGFX
 * Wired Protocols
   * SPI
