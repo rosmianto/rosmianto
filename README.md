@@ -1,11 +1,12 @@
 # Hi there 👋
 
 # About Me
-Hello, I'm an embedded systems engineer who loves to build robust, highly readable, and maintainable firmware for embedded devices. I've been working on embedded systems for 7+ years now. Also, I've been working remotely for the last 3 years now, and I LOVE IT 🌟
+Hello, I'm an embedded systems engineer who loves to build robust, highly readable, and maintainable firmware for embedded devices. I've been working on embedded systems for 9+ years now (since 2016). Also, I've been working remotely for the last 6 years now (since 2019), and I LOVE IT 🌟
 
 # My Work Experience Timeline Summary
 
-* 2022-now. Working on a Low-Earth Orbit Satellite system to provide 24/7 IoT connectivity anywhere in the world.
+* 2024-now. Building my own embedded consulting firm. The reason is simple: to understand the business side of embedded industry.
+* 2022-2024. Working on a Low-Earth Orbit Satellite system to provide 24/7 IoT connectivity anywhere in the world.
 * 2020-2022. Built tracker device to track heavy machinery such as excavators, and super big trucks. Developed firmware to run the devices 24/7 for years.
 * 2019-2020. Built tracker device for humans. Using Bluetooth technology to track human movement (indoor) and presence.
 * 2018-2019. Built a self-checkout machine for the biggest e-commerce startup in Indonesia.
@@ -13,12 +14,15 @@ Hello, I'm an embedded systems engineer who loves to build robust, highly readab
 
 # My Skill Set
 * `Firmware Architecture Design`. A very important step that many engineers missed. Without proper architecture design, your firmware will be destined to be super-hard to maintain and add features.
-* `Firmware Documentation`. Without proper documentation, people will waste time to understand and follow your firmware.
+* `Firmware Documentation`. Without proper documentation, people will waste time understanding and following your firmware.
 * `Firmware Testing`. I love and use Test-Driven Development in my day-to-day work.
 * `Testing Automation`. Usually I use CI/CD to deliver fast and good firmware without breaking existing code.
-* `Programming Language`. I'm fluent in speaking embedded C and C++ (especially the modern version like C++11, C++17, and C++20). Also able to speak Python and C#.
+* `Programming Language`. I'm fluent in speaking embedded C and C++ (especially the modern versions like C++11, C++17, and C++20). Also able to speak Python and C#.
 
 ## Technical Skills
+* Graphic/UI Frameworks
+  * LVGL (since 6.x)
+  * TouchGFX
 * Wired Protocols
   * SPI
   * I2C
